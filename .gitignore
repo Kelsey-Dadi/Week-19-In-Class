@@ -4,3 +4,5 @@
 19.1-03-Using jQuery.docx
 19.1-04-on Function.docx
 19.1-05-Build a toggle.docx
+*.xml
+*.iml
