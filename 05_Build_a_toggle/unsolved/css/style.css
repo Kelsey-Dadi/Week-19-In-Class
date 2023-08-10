@@ -1,1 +1,31 @@
 /* Style your dropdown below! */
+.container{
+    margin: 0 auto;
+    text-align: center;
+    padding: 0px;
+    font-family: "Open Sans";
+    width: 500px;
+
+
+}
+#toggle {
+     background-color: red;
+     border-style: solid;
+     border-color: black;
+     color: white;
+}
+
+.container ul{
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+
+}
+
+.container li{
+    border-style: solid;
+}
+
+.image {
+    width: 15px;
+}
